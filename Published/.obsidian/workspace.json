@@ -100,8 +100,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +209,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "cd67d41f132253f1",
+  "active": "d1773002111534f8",
   "lastOpenFiles": [
     "Problem Set 13.md",
     "Welcome.md"
