@@ -1,4 +1,24 @@
 [
   "obsidian-git",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "obsidian-citation-plugin",
+  "cmenu-plugin",
+  "obsidian-dictionary-plugin",
+  "dataview",
+  "editing-toolbar",
+  "global-search-and-replace",
+  "obsidian-icon-folder",
+  "heading-level-indent",
+  "multi-properties",
+  "multi-column-markdown",
+  "obsidian-power-search",
+  "quickadd",
+  "recent-files-obsidian",
+  "simple-columns",
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "webpage-html-export",
+  "obsidian-zotero-desktop-connector"
 ]

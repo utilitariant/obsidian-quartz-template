@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "Problem Set 13",
+      "path": "Problem Set 13.md"
+    },
+    {
+      "basename": "Problem Set 13",
       "path": "4. Assignments/BZ350/Problem Set 13.md"
     },
     {
@@ -195,10 +199,6 @@
     {
       "basename": "frequency",
       "path": "1. Content/frequency.md"
-    },
-    {
-      "basename": "RNA Polymerase",
-      "path": "3. Notes/3.4 Content to be sorted/Physical/compounds/Organic compounds/RNA Polymerase.md"
     }
   ],
   "omittedPaths": [],
