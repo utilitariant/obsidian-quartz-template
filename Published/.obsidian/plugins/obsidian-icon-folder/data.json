@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiDna",
+      "LiListFilter",
+      "LiSortAsc",
+      "LiMap",
+      "LiQuestionMarkGlyph"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "1. Content": {
+    "iconName": "LiDna",
+    "iconColor": "#33e147"
+  },
+  "4. Assignments": {
+    "iconName": "LiBackpack",
+    "iconColor": "#ff7070"
+  },
+  "5. Accessory Files": "LiAsteriskSquare",
+  "4. Assignments/BZ350": "LiDna",
+  "4. Assignments/CHEM": "LiFlaskConical",
+  "4. Assignments/LIFE103": "LiLeaf",
+  "4. Assignments/Biology": "LiBone",
+  "2. My Research": {
+    "iconName": "LiAlbum",
+    "iconColor": "#7c91fe"
+  },
+  "3. Notes": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#ffbd61"
+  },
+  "3. Notes/3.1  From Articles": "LiNewspaper",
+  "3. Notes/3.3  Unparsed": "LiListFilter",
+  "3. Notes/3.4 Content to be sorted": "LiSortAsc",
+  "- 0. MOC -": "LiMap",
+  "3. Notes/3.2  Questions-Chatlogs": "LiQuestionMarkGlyph"
+}

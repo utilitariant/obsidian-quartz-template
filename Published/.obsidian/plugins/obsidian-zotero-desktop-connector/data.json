@@ -1,0 +1,23 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "5. Accessory Files/From zotero.md",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "modern-language-association"
+    },
+    {
+      "name": "cite",
+      "format": "formatted-citation",
+      "cslStyle": "modern-language-association"
+    }
+  ],
+  "exportFormats": [],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
